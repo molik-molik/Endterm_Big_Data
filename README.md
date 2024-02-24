@@ -1,3 +1,12 @@
+Group: CS-2121
+Name: Berikova Malika, Kurmangazynova Asiya.
+
+ENDTERM PROJECT for Big Data in Law Enforcement.
+
+Teacher: Zhuldasov Abat.
+
+Hello!
+
 This repository has 4 files.
 
 1. Endterm_Notebook.zip. It is the Jupyter notebook file with all the code and outputs.
